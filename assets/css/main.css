@@ -1540,10 +1540,7 @@
 
 		.image img {
 			display: block;
-      min-height: 20vh;
-      max-height: 60vh;
-      min-width: 20vw;
-      max-width: 40vw;
+      width: 250px;
 			border-radius: 0.5em;
 		}
 
