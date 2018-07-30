@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1293,11 +1293,11 @@
        id="tspan4684"
        x="338.79813"
        y="125.20409"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:74.69156647px;line-height:1.25;font-family:Colaborate-Medium;-inkscape-font-specification:Colaborate-Medium;fill:#1f4a67;fill-opacity:1;stroke-width:1.57245386px">{First}</tspan><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:49.99999922px;line-height:1.25;font-family:Colaborate-Medium;-inkscape-font-specification:Colaborate-Medium;fill:#1f4a67;fill-opacity:1;stroke-width:1.57245386px">{First}</tspan><tspan
        sodipodi:role="line"
        x="338.79813"
        y="193.5287"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.17361832px;line-height:1.25;font-family:Colaborate-Medium;-inkscape-font-specification:Colaborate-Medium;fill:#1f4a67;fill-opacity:1;stroke-width:1.57245386px"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99999939px;line-height:1.25;font-family:Colaborate-Medium;-inkscape-font-specification:Colaborate-Medium;fill:#1f4a67;fill-opacity:1;stroke-width:1.57245386px"
        id="tspan4340">{Last}</tspan></text>
   <text
      id="text4692"
