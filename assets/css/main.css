@@ -2029,7 +2029,8 @@
 	#header {
 		position: relative;
 		margin: 0;
-		background-image: url("https://github.com/brainhack101/mtl-brainhack-2018/raw/master/images/brainondesk.jpg");
+		/* background-image: url("https://github.com/brainhack101/mtl-brainhack-2018/raw/master/images/brainondesk.jpg"); */
+		background-image: url('../../images/marvin-meyer-571072-unsplash.jpg');
 		background-size: cover;
 		background-position: top left, center center;
 		background-repeat: no-repeat;
@@ -2106,7 +2107,7 @@
 			}
 
 			.main > .content.style1 {
-				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, linear-gradient(45deg, #b39c68, #a56365, #412e4c);
+				background: url("images/bgtr.svg") top right no-repeat, url("images/bgbl.svg") bottom left no-repeat, linear-gradient(45deg,  #0277bd, #00838f,  #00695c);
 			}
 
 			.main > .content.style2 {
