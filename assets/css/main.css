@@ -2029,8 +2029,7 @@
 	#header {
 		position: relative;
 		margin: 0;
-		/* background-image: url("https://github.com/brainhack101/mtl-brainhack-2018/raw/master/images/brainondesk.jpg"); */
-		background-image: url('../../images/marvin-meyer-571072-unsplash.jpg');
+		background-image: url("https://github.com/hbhl/intro2programming/raw/master/images/marvin-meyer-571072-unsplash-min.jpg");
 		background-size: cover;
 		background-position: top left, center center;
 		background-repeat: no-repeat;
